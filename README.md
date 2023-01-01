@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/BWl8EE5.png" height="80%" width="80%" alt="How DNS Works"/>
+<img src="https://i.imgur.com/rUZwyvW.jpg" height="80%" width="80%" alt="How DNS Works"/>
 </p>
 
 <h1>Understanding DNS</h1>
